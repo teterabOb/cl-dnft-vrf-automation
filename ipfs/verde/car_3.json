@@ -1,0 +1,15 @@
+{
+    "name": "El Transformer",
+    "description" : "Este auto se transforma con el tiempo",
+    "image" : "https://ipfs.io/ipfs/QmNvdo3UM7kekod677wRiwNQiRS4qEha6cKd1opi7ZMKvb/1.png",
+    "attributes": [
+        {
+            "trait-type": "EtapaDelAuto",
+            "value": "Transformer"
+        },
+        {
+            "trait-type": "Color",
+            "value": "Verde"
+        }
+    ]
+}
