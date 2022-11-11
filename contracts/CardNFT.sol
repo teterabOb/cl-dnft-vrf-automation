@@ -12,7 +12,7 @@ import "@chainlink/contracts/src/v0.8/ConfirmedOwner.sol";
 
 // Una vez el contrato se despliega tenemos que
 // ejecutar la funcion safeMint con tu address
-contract CarNFT is AutomationCompatibleInterface, VRFConsumerBaseV2, ConfirmedOwner, ERC721, ERC721URIStorage  {
+contract CardNFT is AutomationCompatibleInterface, VRFConsumerBaseV2, ConfirmedOwner, ERC721, ERC721URIStorage  {
     using Counters for Counters.Counter;
 
     Counters.Counter private _tokenIdCounter;
