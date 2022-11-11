@@ -1,4 +1,4 @@
-# Proyecto NFTs Dinámicos
+#  NFTs Dinámicos con Chainlink VRF y Automation
 
 Este repositorio contiene todos los archivos para poder replicar el workshop de principio a fin. 
 Aunque con el código del contrato basta para replicarlo en remix. 
